@@ -7,38 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F4A4D46328D13E4400D5B976 /* Implode.ahap in Resources */ = {isa = PBXBuildFile; fileRef = F4A4D46228D13E4400D5B976 /* Implode.ahap */; };
-		F4D7CF4528CC025100755863 /* Waiting_RoomApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D7CF4428CC025100755863 /* Waiting_RoomApp.swift */; };
-		F4D7CF4728CC025100755863 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D7CF4628CC025100755863 /* ContentView.swift */; };
-		F4D7CF4928CC025400755863 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4D7CF4828CC025400755863 /* Assets.xcassets */; };
-		F4D7CF4C28CC025400755863 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4D7CF4B28CC025400755863 /* Preview Assets.xcassets */; };
-		F4D7CF5428CC02CC00755863 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D7CF5328CC02CC00755863 /* CircleImage.swift */; };
-		F4D7CF5628CC03DC00755863 /* hapticsData.json in Resources */ = {isa = PBXBuildFile; fileRef = F4D7CF5528CC03DC00755863 /* hapticsData.json */; };
-		F4D7CF5C28CC07D900755863 /* Haptic.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D7CF5B28CC07D900755863 /* Haptic.swift */; };
-		F4D7CF5E28CC084200755863 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D7CF5D28CC084200755863 /* ModelData.swift */; };
-		F4D7CF6128CC08A500755863 /* HapticRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D7CF6028CC08A500755863 /* HapticRow.swift */; };
-		F4D7CF6328CC098D00755863 /* HapticList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D7CF6228CC098D00755863 /* HapticList.swift */; };
-		F4D7CF6528CC0A5F00755863 /* Visit.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D7CF6428CC0A5F00755863 /* Visit.swift */; };
+		F46D148528CFF24B005BA7FF /* TestingDeviceApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46D148428CFF24B005BA7FF /* TestingDeviceApp.swift */; };
+		F46D148728CFF24B005BA7FF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46D148628CFF24B005BA7FF /* ContentView.swift */; };
+		F46D148928CFF24D005BA7FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F46D148828CFF24D005BA7FF /* Assets.xcassets */; };
+		F46D148C28CFF24D005BA7FF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F46D148B28CFF24D005BA7FF /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F4A4D46228D13E4400D5B976 /* Implode.ahap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Implode.ahap; sourceTree = "<group>"; };
-		F4D7CF4128CC025100755863 /* Waiting Room.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Waiting Room.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		F4D7CF4428CC025100755863 /* Waiting_RoomApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Waiting_RoomApp.swift; sourceTree = "<group>"; };
-		F4D7CF4628CC025100755863 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		F4D7CF4828CC025400755863 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		F4D7CF4B28CC025400755863 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		F4D7CF5328CC02CC00755863 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
-		F4D7CF5528CC03DC00755863 /* hapticsData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hapticsData.json; sourceTree = "<group>"; };
-		F4D7CF5B28CC07D900755863 /* Haptic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Haptic.swift; sourceTree = "<group>"; };
-		F4D7CF5D28CC084200755863 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
-		F4D7CF6028CC08A500755863 /* HapticRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticRow.swift; sourceTree = "<group>"; };
-		F4D7CF6228CC098D00755863 /* HapticList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticList.swift; sourceTree = "<group>"; };
-		F4D7CF6428CC0A5F00755863 /* Visit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Visit.swift; sourceTree = "<group>"; };
+		F46D148128CFF24B005BA7FF /* TestingDevice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestingDevice.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F46D148428CFF24B005BA7FF /* TestingDeviceApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingDeviceApp.swift; sourceTree = "<group>"; };
+		F46D148628CFF24B005BA7FF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F46D148828CFF24D005BA7FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F46D148B28CFF24D005BA7FF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F4D7CF3E28CC025100755863 /* Frameworks */ = {
+		F46D147E28CFF24B005BA7FF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -48,101 +32,77 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F4D7CF3828CC025100755863 = {
+		F46D147828CFF24B005BA7FF = {
 			isa = PBXGroup;
 			children = (
-				F4D7CF4328CC025100755863 /* Waiting Room */,
-				F4D7CF4228CC025100755863 /* Products */,
+				F46D148328CFF24B005BA7FF /* TestingDevice */,
+				F46D148228CFF24B005BA7FF /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F4D7CF4228CC025100755863 /* Products */ = {
+		F46D148228CFF24B005BA7FF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F4D7CF4128CC025100755863 /* Waiting Room.app */,
+				F46D148128CFF24B005BA7FF /* TestingDevice.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F4D7CF4328CC025100755863 /* Waiting Room */ = {
+		F46D148328CFF24B005BA7FF /* TestingDevice */ = {
 			isa = PBXGroup;
 			children = (
-				F4D7CF4428CC025100755863 /* Waiting_RoomApp.swift */,
-				F4D7CF5228CC027200755863 /* Views */,
-				F4D7CF5F28CC088600755863 /* Model */,
-				F4D7CF4828CC025400755863 /* Assets.xcassets */,
-				F4D7CF5528CC03DC00755863 /* hapticsData.json */,
-				F4A4D46228D13E4400D5B976 /* Implode.ahap */,
-				F4D7CF4A28CC025400755863 /* Preview Content */,
+				F46D148428CFF24B005BA7FF /* TestingDeviceApp.swift */,
+				F46D148628CFF24B005BA7FF /* ContentView.swift */,
+				F46D148828CFF24D005BA7FF /* Assets.xcassets */,
+				F46D148A28CFF24D005BA7FF /* Preview Content */,
 			);
-			path = "Waiting Room";
+			path = TestingDevice;
 			sourceTree = "<group>";
 		};
-		F4D7CF4A28CC025400755863 /* Preview Content */ = {
+		F46D148A28CFF24D005BA7FF /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				F4D7CF4B28CC025400755863 /* Preview Assets.xcassets */,
+				F46D148B28CFF24D005BA7FF /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		F4D7CF5228CC027200755863 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-				F4D7CF4628CC025100755863 /* ContentView.swift */,
-				F4D7CF5328CC02CC00755863 /* CircleImage.swift */,
-				F4D7CF6028CC08A500755863 /* HapticRow.swift */,
-				F4D7CF6228CC098D00755863 /* HapticList.swift */,
-				F4D7CF6428CC0A5F00755863 /* Visit.swift */,
-			);
-			path = Views;
-			sourceTree = "<group>";
-		};
-		F4D7CF5F28CC088600755863 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				F4D7CF5B28CC07D900755863 /* Haptic.swift */,
-				F4D7CF5D28CC084200755863 /* ModelData.swift */,
-			);
-			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F4D7CF4028CC025100755863 /* Waiting Room */ = {
+		F46D148028CFF24B005BA7FF /* TestingDevice */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F4D7CF4F28CC025400755863 /* Build configuration list for PBXNativeTarget "Waiting Room" */;
+			buildConfigurationList = F46D148F28CFF24D005BA7FF /* Build configuration list for PBXNativeTarget "TestingDevice" */;
 			buildPhases = (
-				F4D7CF3D28CC025100755863 /* Sources */,
-				F4D7CF3E28CC025100755863 /* Frameworks */,
-				F4D7CF3F28CC025100755863 /* Resources */,
+				F46D147D28CFF24B005BA7FF /* Sources */,
+				F46D147E28CFF24B005BA7FF /* Frameworks */,
+				F46D147F28CFF24B005BA7FF /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Waiting Room";
-			productName = "Waiting Room";
-			productReference = F4D7CF4128CC025100755863 /* Waiting Room.app */;
+			name = TestingDevice;
+			productName = TestingDevice;
+			productReference = F46D148128CFF24B005BA7FF /* TestingDevice.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F4D7CF3928CC025100755863 /* Project object */ = {
+		F46D147928CFF24B005BA7FF /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1340;
 				LastUpgradeCheck = 1340;
 				TargetAttributes = {
-					F4D7CF4028CC025100755863 = {
+					F46D148028CFF24B005BA7FF = {
 						CreatedOnToolsVersion = 13.4.1;
 					};
 				};
 			};
-			buildConfigurationList = F4D7CF3C28CC025100755863 /* Build configuration list for PBXProject "Waiting Room" */;
+			buildConfigurationList = F46D147C28CFF24B005BA7FF /* Build configuration list for PBXProject "TestingDevice" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -150,50 +110,42 @@
 				en,
 				Base,
 			);
-			mainGroup = F4D7CF3828CC025100755863;
-			productRefGroup = F4D7CF4228CC025100755863 /* Products */;
+			mainGroup = F46D147828CFF24B005BA7FF;
+			productRefGroup = F46D148228CFF24B005BA7FF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F4D7CF4028CC025100755863 /* Waiting Room */,
+				F46D148028CFF24B005BA7FF /* TestingDevice */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F4D7CF3F28CC025100755863 /* Resources */ = {
+		F46D147F28CFF24B005BA7FF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F4D7CF4C28CC025400755863 /* Preview Assets.xcassets in Resources */,
-				F4D7CF4928CC025400755863 /* Assets.xcassets in Resources */,
-				F4A4D46328D13E4400D5B976 /* Implode.ahap in Resources */,
-				F4D7CF5628CC03DC00755863 /* hapticsData.json in Resources */,
+				F46D148C28CFF24D005BA7FF /* Preview Assets.xcassets in Resources */,
+				F46D148928CFF24D005BA7FF /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F4D7CF3D28CC025100755863 /* Sources */ = {
+		F46D147D28CFF24B005BA7FF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F4D7CF5C28CC07D900755863 /* Haptic.swift in Sources */,
-				F4D7CF4728CC025100755863 /* ContentView.swift in Sources */,
-				F4D7CF5E28CC084200755863 /* ModelData.swift in Sources */,
-				F4D7CF6328CC098D00755863 /* HapticList.swift in Sources */,
-				F4D7CF4528CC025100755863 /* Waiting_RoomApp.swift in Sources */,
-				F4D7CF6528CC0A5F00755863 /* Visit.swift in Sources */,
-				F4D7CF5428CC02CC00755863 /* CircleImage.swift in Sources */,
-				F4D7CF6128CC08A500755863 /* HapticRow.swift in Sources */,
+				F46D148728CFF24B005BA7FF /* ContentView.swift in Sources */,
+				F46D148528CFF24B005BA7FF /* TestingDeviceApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		F4D7CF4D28CC025400755863 /* Debug */ = {
+		F46D148D28CFF24D005BA7FF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -253,7 +205,7 @@
 			};
 			name = Debug;
 		};
-		F4D7CF4E28CC025400755863 /* Release */ = {
+		F46D148E28CFF24D005BA7FF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -307,14 +259,14 @@
 			};
 			name = Release;
 		};
-		F4D7CF5028CC025400755863 /* Debug */ = {
+		F46D149028CFF24D005BA7FF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Waiting Room/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"TestingDevice/Preview Content\"";
 				DEVELOPMENT_TEAM = B3CK2YTMN8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -328,7 +280,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "gclarke.Waiting-Room";
+				PRODUCT_BUNDLE_IDENTIFIER = gclarke.TestingDevice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -336,14 +288,14 @@
 			};
 			name = Debug;
 		};
-		F4D7CF5128CC025400755863 /* Release */ = {
+		F46D149128CFF24D005BA7FF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Waiting Room/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"TestingDevice/Preview Content\"";
 				DEVELOPMENT_TEAM = B3CK2YTMN8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -357,7 +309,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "gclarke.Waiting-Room";
+				PRODUCT_BUNDLE_IDENTIFIER = gclarke.TestingDevice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -368,25 +320,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F4D7CF3C28CC025100755863 /* Build configuration list for PBXProject "Waiting Room" */ = {
+		F46D147C28CFF24B005BA7FF /* Build configuration list for PBXProject "TestingDevice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F4D7CF4D28CC025400755863 /* Debug */,
-				F4D7CF4E28CC025400755863 /* Release */,
+				F46D148D28CFF24D005BA7FF /* Debug */,
+				F46D148E28CFF24D005BA7FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F4D7CF4F28CC025400755863 /* Build configuration list for PBXNativeTarget "Waiting Room" */ = {
+		F46D148F28CFF24D005BA7FF /* Build configuration list for PBXNativeTarget "TestingDevice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F4D7CF5028CC025400755863 /* Debug */,
-				F4D7CF5128CC025400755863 /* Release */,
+				F46D149028CFF24D005BA7FF /* Debug */,
+				F46D149128CFF24D005BA7FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F4D7CF3928CC025100755863 /* Project object */;
+	rootObject = F46D147928CFF24B005BA7FF /* Project object */;
 }
