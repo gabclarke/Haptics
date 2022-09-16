@@ -7,7 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F40AD5F828D390E7002624F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40AD5F728D390E7002624F9 /* AppDelegate.swift */; };
+		F40AD5FA28D39597002624F9 /* HapticEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40AD5F928D39597002624F9 /* HapticEngine.swift */; };
 		F4A4D46328D13E4400D5B976 /* Implode.ahap in Resources */ = {isa = PBXBuildFile; fileRef = F4A4D46228D13E4400D5B976 /* Implode.ahap */; };
+		F4A4D46528D1443A00D5B976 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4A4D46428D1443A00D5B976 /* ViewController.swift */; };
 		F4D7CF4528CC025100755863 /* Waiting_RoomApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D7CF4428CC025100755863 /* Waiting_RoomApp.swift */; };
 		F4D7CF4728CC025100755863 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D7CF4628CC025100755863 /* ContentView.swift */; };
 		F4D7CF4928CC025400755863 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4D7CF4828CC025400755863 /* Assets.xcassets */; };
@@ -22,7 +25,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F40AD5F728D390E7002624F9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F40AD5F928D39597002624F9 /* HapticEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticEngine.swift; sourceTree = "<group>"; };
 		F4A4D46228D13E4400D5B976 /* Implode.ahap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Implode.ahap; sourceTree = "<group>"; };
+		F4A4D46428D1443A00D5B976 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F4D7CF4128CC025100755863 /* Waiting Room.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Waiting Room.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4D7CF4428CC025100755863 /* Waiting_RoomApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Waiting_RoomApp.swift; sourceTree = "<group>"; };
 		F4D7CF4628CC025100755863 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -74,6 +80,9 @@
 				F4D7CF5528CC03DC00755863 /* hapticsData.json */,
 				F4A4D46228D13E4400D5B976 /* Implode.ahap */,
 				F4D7CF4A28CC025400755863 /* Preview Content */,
+				F4A4D46428D1443A00D5B976 /* ViewController.swift */,
+				F40AD5F728D390E7002624F9 /* AppDelegate.swift */,
+				F40AD5F928D39597002624F9 /* HapticEngine.swift */,
 			);
 			path = "Waiting Room";
 			sourceTree = "<group>";
@@ -179,6 +188,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4A4D46528D1443A00D5B976 /* ViewController.swift in Sources */,
 				F4D7CF5C28CC07D900755863 /* Haptic.swift in Sources */,
 				F4D7CF4728CC025100755863 /* ContentView.swift in Sources */,
 				F4D7CF5E28CC084200755863 /* ModelData.swift in Sources */,
@@ -186,6 +196,8 @@
 				F4D7CF4528CC025100755863 /* Waiting_RoomApp.swift in Sources */,
 				F4D7CF6528CC0A5F00755863 /* Visit.swift in Sources */,
 				F4D7CF5428CC02CC00755863 /* CircleImage.swift in Sources */,
+				F40AD5FA28D39597002624F9 /* HapticEngine.swift in Sources */,
+				F40AD5F828D390E7002624F9 /* AppDelegate.swift in Sources */,
 				F4D7CF6128CC08A500755863 /* HapticRow.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

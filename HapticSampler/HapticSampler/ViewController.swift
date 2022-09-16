@@ -152,7 +152,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func playAHAP8(sender: UIButton) {
-         playHapticsFile(named: "AHAP/Drums")
+         playHapticsFile(named: "AHAP/Micro-pulse-2")
     }
 
 }

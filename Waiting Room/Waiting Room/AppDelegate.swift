@@ -1,8 +1,27 @@
+///*
+//See LICENSE folder for this sample’s licensing information.
 //
-//  AppDelegate.swift
-//  Waiting Room
+//Abstract:
+//The app delegate for the HapticSampler app.
+//*/
 //
-//  Created by Gabrielle Clarke on 9/15/22.
+//import UIKit
+//import CoreHaptics
 //
-
-import Foundation
+//@UIApplicationMain
+//class AppDelegate: UIResponder, UIApplicationDelegate {
+//    
+//    var window: UIWindow?
+//    var supportsHaptics: Bool = false
+//    
+//    /// - Tag: CheckHapticCompatibility
+//    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+//        
+//        // Check if the device supports haptics.
+//        let hapticCapability = CHHapticEngine.capabilitiesForHardware()
+//        supportsHaptics = hapticCapability.supportsHaptics
+//        
+//        return true
+//    }
+//}
+//

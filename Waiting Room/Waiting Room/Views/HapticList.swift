@@ -8,6 +8,9 @@
 import SwiftUI
 
 struct HapticList: View {
+//    let controller = ViewController()
+//    lazy var implode = controller.playImplode()
+//    
     var body: some View {
         NavigationView {
             List(haptics) { haptic in
@@ -16,6 +19,7 @@ struct HapticList: View {
                 } label: {
                     HapticRow(haptic: haptic)
                 }
+                
             }
             .navigationTitle("Haptic patterns")
         }
